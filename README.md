@@ -1,6 +1,12 @@
-## Olá, sou Luiz Miguel Viana 👋
+## Olá 👋
 
-<div>
+Sou Luiz Miguel! Atualmente trabalhando como Desenvolvedor na Radix Engenharia e Software, sou Técnico de Informática pelo CEFET/RJ e graduando no Bacharelado em Ciência da Computação na UFRJ 
+
+- ☕ Interessado em Arquitetura e Design de Projetos Java
+- 🌎 Já participei de alguns projetos acadêmicos internacionais
+- 🚀 Adoro criar e desenvolver coisas novas
+
+<div align="center">
   <a href="mailto:luizmig52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizmvb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/luizmvb"><img src="https://img.shields.io/github/followers/luizmvb?label=follow&style=social" height="22" title="Follow me" /></a> 
