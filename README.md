@@ -1,8 +1,9 @@
 ## Olá, sou Luiz Miguel Viana 👋
 
 <div>
-  [![iconeLinkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmvb)
-  [![iconeGmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizmig52@gmail.com)
+  <a href="https://github.com/luizmvb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmvb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmvb&layout=compact&langs_count=7&theme=dracula"/>
   [<img src="https://img.shields.io/github/followers/luizmvb?label=follow&style=social" height="22" title="Follow me" />](https://github.com/luizmvb) 
 </div>
 
