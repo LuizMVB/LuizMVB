@@ -34,19 +34,14 @@ Sou Luiz Miguel! Atualmente trabalho como Desenvolvedor na Radix Engenharia e So
 
 <br/>
 
-<div>
-  <a href="https://github.com/luizmvb">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmvb&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmvb&layout=compact&langs_count=7&theme=jolly"/>
-</div>
- 
- <div>
- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
  </div>
 
 ##
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
