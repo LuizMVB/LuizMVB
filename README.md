@@ -1,6 +1,4 @@
-# Olá, pessoal 👋
-
-<br/>
+<h1 align="center">Olá 🤝</h1>
 
 ```java
 public class Main{
@@ -12,11 +10,20 @@ public class Main{
 
 <br/>
 
-<div>
+<div id="header" align="center">
+  <img src="https://c.tenor.com/lER2_kKTywYAAAAC/monkey-adult-swim.gif" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="mailto:luizmig52@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luizmvb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/luizmvb"><img src="https://img.shields.io/github/followers/luizmvb?label=follow&style=social" height="22" title="Follow me" /></a> 
+  <a href="https://medium.com/@luizmvb" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
+
+------
+
 <br/>
 
 Sou Luiz Miguel! Atualmente trabalho como Desenvolvedor na Radix Engenharia e Software, sou Técnico de Informática pelo CEFET/RJ e graduando no Bacharelado em Ciência da Computação na UFRJ 
