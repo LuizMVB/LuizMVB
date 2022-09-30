@@ -26,7 +26,7 @@ public class Main{
 
 <br/>
 
-Sou Luiz Miguel! Atualmente trabalho como Desenvolvedor na Radix Engenharia e Software, sou Técnico de Informática pelo CEFET/RJ e graduando no Bacharelado em Ciência da Computação na UFRJ 
+Sou Luiz Miguel! Atualmente trabalho como Desenvolvedor na GFT, sou Técnico de Informática pelo CEFET/RJ e graduando no Bacharelado em Ciência da Computação na UFRJ 
 
 - ☕ Interessado em Arquitetura e Design de Projetos Java
 - 🌎 Já participei de alguns projetos acadêmicos internacionais
