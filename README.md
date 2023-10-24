@@ -35,7 +35,6 @@ Sou Luiz Miguel! Atualmente trabalho como Desenvolvedor na GFT, sou Técnico de 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmvb&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmvb&layout=compact&langs_count=7&theme=jolly"/>
  </div>
 
